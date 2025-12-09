@@ -34,4 +34,12 @@ article 3
 <img width="1920" height="989" alt="a3-01" src="https://github.com/user-attachments/assets/3798ef3f-247e-427e-a3cc-fb56098dc509" />
 
 article 4
+<img width="1920" height="989" alt="001" src="https://github.com/user-attachments/assets/cc4e9d90-01af-4a70-bf0f-ee6189b556cb" />
+<img width="1920" height="989" alt="002" src="https://github.com/user-attachments/assets/29e46f7b-733f-448c-883a-23fc9541874a" />
+<img width="1662" height="853" alt="003" src="https://github.com/user-attachments/assets/0295d92e-9b97-4b3f-8f7b-576a88452490" />
+<img width="1920" height="989" alt="004" src="https://github.com/user-attachments/assets/7178e9e7-42bd-4762-b0bc-27ffcb05e87d" />
+<img width="1920" height="989" alt="005" src="https://github.com/user-attachments/assets/901aebbf-34df-4dea-b111-4296bae489e4" />
+<img width="1920" height="989" alt="006" src="https://github.com/user-attachments/assets/becda073-bc53-4e43-9bb8-29113e32cc17" />
+<img width="1920" height="989" alt="007" src="https://github.com/user-attachments/assets/c73f68d2-820d-422d-9468-dbc735b2e712" />
+<img width="1920" height="989" alt="008" src="https://github.com/user-attachments/assets/a0ccd36e-7070-44be-9b7b-6bdfc4d98e2c" />
 
