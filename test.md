@@ -61,3 +61,8 @@ article 5
 <img width="1920" height="989" alt="001" src="https://github.com/user-attachments/assets/823a4104-c3d0-4c08-ab3a-b6d39d83b198" />
 <img width="1920" height="989" alt="000" src="https://github.com/user-attachments/assets/9280af6c-214f-4e86-805a-78fb615f7c2c" />
 
+article 7
+<img width="1408" height="768" alt="002" src="https://github.com/user-attachments/assets/058209c8-2a7c-48f3-aea8-da18bbec1da9" />
+<img width="1408" height="768" alt="001" src="https://github.com/user-attachments/assets/834e66bc-3ecc-4dca-b6d7-f4935a4153cf" />
+<img width="1408" height="520" alt="003" src="https://github.com/user-attachments/assets/f623bcf2-0ca4-4b5d-aa6b-c5abee5f988f" />
+
