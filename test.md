@@ -62,9 +62,10 @@ article 5
 <img width="1920" height="989" alt="000" src="https://github.com/user-attachments/assets/9280af6c-214f-4e86-805a-78fb615f7c2c" />
 
 article 7
-<img width="1408" height="768" alt="002" src="https://github.com/user-attachments/assets/058209c8-2a7c-48f3-aea8-da18bbec1da9" />
-<img width="1408" height="768" alt="001" src="https://github.com/user-attachments/assets/834e66bc-3ecc-4dca-b6d7-f4935a4153cf" />
-<img width="1408" height="520" alt="003" src="https://github.com/user-attachments/assets/f623bcf2-0ca4-4b5d-aa6b-c5abee5f988f" />
-<img width="1408" height="575" alt="004" src="https://github.com/user-attachments/assets/bfd159c4-5856-4dd4-a8ce-e1d5c2cc00f3" />
+<img width="1408" height="567" alt="003" src="https://github.com/user-attachments/assets/2699a43d-c4c4-45ae-bd86-5ac274532fcc" />
+<img width="1408" height="585" alt="002" src="https://github.com/user-attachments/assets/80de81ac-52a5-4bac-9ef9-5f37d6573da0" />
+<img width="1408" height="566" alt="001" src="https://github.com/user-attachments/assets/76924ed4-e1a6-417c-89cd-bfe908887c6d" />
+<img width="1408" height="575" alt="004" src="https://github.com/user-attachments/assets/019a2f3a-5c33-432a-b891-c4cbb69831f4" />
+
 
 
