@@ -65,4 +65,6 @@ article 7
 <img width="1408" height="768" alt="002" src="https://github.com/user-attachments/assets/058209c8-2a7c-48f3-aea8-da18bbec1da9" />
 <img width="1408" height="768" alt="001" src="https://github.com/user-attachments/assets/834e66bc-3ecc-4dca-b6d7-f4935a4153cf" />
 <img width="1408" height="520" alt="003" src="https://github.com/user-attachments/assets/f623bcf2-0ca4-4b5d-aa6b-c5abee5f988f" />
+<img width="1408" height="575" alt="004" src="https://github.com/user-attachments/assets/bfd159c4-5856-4dd4-a8ce-e1d5c2cc00f3" />
+
 
